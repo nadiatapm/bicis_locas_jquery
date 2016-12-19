@@ -68,7 +68,7 @@ function validateForm(){
 			$(".form-group").parent().append("<span>Eligi tu Opción</span>");
 			return false;
 		}else{
-			return true;
+			return  true;
 		}
 	}
 	seleccionBici();
